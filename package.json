@@ -1,0 +1,20 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "formation javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "bedzec": "node src/index.js"
+  },
+  "author": "Tristan",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.3"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
